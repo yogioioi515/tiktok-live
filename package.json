@@ -1,0 +1,14 @@
+{
+  "name": "tiktok-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "yogioioi515",
+  "license": "MIT"
+	  "publishConfig": {
+	  "@yogioioi515:registry": "https://npm.pkg.github.com"
+	}
+}
